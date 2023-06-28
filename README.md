@@ -8,7 +8,8 @@ SmartHomeX is a mobile-based home automation system utilizing 8051 microcontroll
 - **Mobile Device Control:** SmartHomeX enables users to control home automation devices using their Android mobile devices. The system establishes a Bluetooth connection between the mobile device and the home automation system, providing on-the-go control and monitoring capabilities.
 
 - **Real-time Simulation:** The project utilizes Proteus simulation software to provide real-time simulation of the SmartHomeX system. This allows users to visualize and verify the functionality of the home automation system before implementation.
-## Proteus Simulation 
+## Proteus Simulation (Example)
+This shows a basic implementation with an example scenario
 ![image](https://github.com/muneebelahimalik/Home_automation_system/assets/59524535/ea44d027-a9c8-49d4-b64f-aee112aefc4c)
 
 ## ASM Chart of 8051 Microcontroller (Example Scenario)
