@@ -36,7 +36,7 @@ To set up and run the SmartHomeX project, follow these steps:
 
 4. Configure the Proteus simulation to connect with the GUI and the Bluetooth module.
 
-5. Load the Proteus simulation and verify the system functionality.
+5. Load the Proteus simulation and verify the system's functionality.
 
 
 
